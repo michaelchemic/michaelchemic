@@ -13,6 +13,11 @@
 
 <img align="right" src= "https://stats.justsong.cn/api/csdn?id=qq_40928870?spm=1010.2135.3001.5343&theme=dark"/>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=songquanpeng&show_icons=true&hide_border=true" alt="JustSong's Github Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songquanpeng&layout=compact&hide_border=true&langs_count=10" alt="JustSong's Top Langs" width="37%" /> 
+</p>
+
 <!--<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=michaelchemic&theme=xcode" /> </div>-->
 
 <!---
