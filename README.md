@@ -9,11 +9,11 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelchemic&show_icons=true&theme=dark&count_private=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchemic&theme=dark&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchemic&theme=dark&layout=compact" />
 
 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=michaelchemic&theme=xcode" /> </div>
+<!--<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=michaelchemic&theme=xcode" /> </div>-->
 
 <!---
 michaelelect/michaelelect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
