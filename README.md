@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning STM32 & SimensPLC
 - 📫 Contact me by email
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelchemic&show_icons=true&theme=dark&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchemic&theme=dark&layout=compact" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=michaelchemic&show_icons=true&theme=dark&count_private=true" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchemic&theme=dark&layout=compact" />
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=michaelchemic&theme=xcode" /> </div>
 
