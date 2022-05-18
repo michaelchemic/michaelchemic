@@ -1,4 +1,5 @@
 
+<img align="right" src= "https://stats.justsong.cn/api/csdn?id=qq_40928870?spm=1010.2135.3001.5343&theme=dark"/>
 
 ### 👋👋🏻👋🏼👋🏽👋🏾👋🏿 Hi, I’m @Michael
 
@@ -7,9 +8,9 @@
 - 📫 Contact me by email
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelchemic&show_icons=true&theme=dark&count_private=true" />
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchemic&theme=dark&layout=compact" />
 
-<img align="left" src= "https://stats.justsong.cn/api/csdn?id=qq_40928870?spm=1010.2135.3001.5343&theme=dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchemic&theme=dark&layout=compact" />
+
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=michaelchemic&theme=xcode" /> </div>
