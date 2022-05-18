@@ -1,11 +1,11 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchemic&theme=dark&layout=compact" width="37%"/>
+<img  align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchemic&theme=dark&layout=compact"/>
 ### 👋👋🏻👋🏼👋🏽👋🏾👋🏿 Hi, I’m @Michael
 
 - 👀 I’m interested in Programming and Electronics
 - 🌱 I’m currently learning STM32 & SimensPLC
 - 📫 Contact me by email
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=michaelchemic&show_icons=true&theme=dark&count_private=true"width="58%" />
+<img src="https://github-readme-stats.vercel.app/api?username=michaelchemic&show_icons=true&theme=dark&count_private=true" />
   <img align="right" src= "https://stats.justsong.cn/api/csdn?id=qq_40928870?spm=1010.2135.3001.5343&theme=dark" width="30%"/>
 
 </p>
