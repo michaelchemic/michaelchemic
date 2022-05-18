@@ -1,7 +1,4 @@
-
-
-<img align="right" src= "https://stats.justsong.cn/api/csdn?id=qq_40928870?spm=1010.2135.3001.5343&theme=dark" width="30"/>
-
+<img align="right" src= "https://stats.justsong.cn/api/csdn?id=qq_40928870?spm=1010.2135.3001.5343&theme=dark" width="30%"/>
 ### 👋👋🏻👋🏼👋🏽👋🏾👋🏿 Hi, I’m @Michael
 
 - 👀 I’m interested in Programming and Electronics
