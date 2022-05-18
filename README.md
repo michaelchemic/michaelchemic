@@ -12,9 +12,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelchemic&show_icons=true&theme=dark&count_private=true" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchemic&theme=dark&layout=compact" />
 
-<div align="left"> <img src="https://activity-graph.herokuapp.com/graph?username=michaelchemic&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=michaelchemic&theme=xcode" /> </div>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 <!---
 michaelelect/michaelelect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
