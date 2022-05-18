@@ -9,6 +9,9 @@
 - 📫 Contact me by email
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchemic&theme=dark&layout=compact" />
+
+<img align="right" src= "https://stats.justsong.cn/api/csdn?id=qq_40928870?spm=1010.2135.3001.5343&theme=dark"/>
+
 <!---
 michaelelect/michaelelect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
