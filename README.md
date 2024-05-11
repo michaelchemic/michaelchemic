@@ -7,7 +7,7 @@
 - 📫 Contact me by email or phone +86 15312407650
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=michaelchemic&show_icons=true&theme=dark&count_private=true" />
-<img align="right" src= "https://stats.justsong.cn/api/csdn?id=qq_40928870?spm=1010.2135.3001.5343&theme=dark" width="39%"/>
+<!--<img align="right" src= "https://stats.justsong.cn/api/csdn?id=qq_40928870?spm=1010.2135.3001.5343&theme=dark" width="39%"/>-->
 
 </p>
 
