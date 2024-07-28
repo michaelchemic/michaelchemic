@@ -2,6 +2,8 @@
 
 ### 👋👋🏻👋🏼👋🏽👋🏾👋🏿 Hi, I’m @Michael 经磊
 
+人生到處知何似，應似飛鴻踏雪泥。
+
 - 👀 I’m interested in Programming and Electronics
 - 🌱 Now I'm a hardware engineer，Working in sensor and pipeline robotics。
 - 📫 Contact me by email or phone +86 15312407650
